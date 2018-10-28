@@ -27,7 +27,7 @@ Areli Merari Moreno Fonseca https://plus.google.com/u/0/+AreliMoreno
 * Package networkd3: https://cran.r-project.org/web/packages/networkD3/networkD3.pdf 
 
 # Abstracción Tamara Munzner
-# # What
+#  What
 
 * Fuente: Datos Abiertos, Ministerio de Agricultura y Desarrollo Rural. Cadena Productiva Cacao - Importaciones https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Cacao-Importaciones/ad53-mnet 
 * Dataset: Tabla Temporal, Estática, Periodicidad mensual 2006 abril de 2018.
@@ -44,7 +44,7 @@ Areli Merari Moreno Fonseca https://plus.google.com/u/0/+AreliMoreno
 * * Pais: Id del país de origen
 * * Departamento: Id del departamento de origen
 
-# # Why 
+#  Why 
 * Tareas Principales:
 Identificar los países origen de la importación de mayores cantidades de cacao en colombia y cuáles son sus departamentos de destino para el año 2017. [Analize-present-explore- features and paths]
 
@@ -69,7 +69,7 @@ Construir variables País y Departamento a partir del Id para nodos, con el obje
 [Derive - Features]
 
 
-# # How
+#  How
 
 Visualización Force directed Placement:
 Marcas de puntos para representar los nodos, con en canal de saturación del color para separar los grupos de nodos entre Departamento y País de Origen [Encode-Separate]. Marcas de conexión de enlaces (links) para indicar la relación entre país y departamento, con el canal de tamaño de área del enlace para expresar la magnitud en relación a la cantidad de kilogramos de cacao exportados. [Encode-Express-Value].
