@@ -3,7 +3,7 @@ Force - Directed placement, datos de importaciones de Cacao en Colombia. Realiza
 
 https://merarifonseca.shinyapps.io/NetworkD3-Importacion-Cacao/
 
-<a href="https://raw.githubusercontent.com/MerariFonseca/Network_Cacao/master/Red.png" alt="simple-network-example"/></a>
+<img src="https://raw.githubusercontent.com/MerariFonseca/Network_Cacao/master/Red.png" alt="simple-network-example"/></a>
 
 # Objetivo:
 Presentar los principales países que exportan cacao a Colombia y sus departamentos de destino. Esto permite hacer seguimiento a los procesos y políticas de importación de estos países en los departamentos identificados.
