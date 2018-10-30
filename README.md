@@ -15,6 +15,8 @@ Presentar los principales países que exportan cacao a Colombia y sus departamen
 * shinyapp.io
 * Libreriías de R: RCurl, networkD3, sqldf, shiny, rsconnect.
 
+El código se ejecuta desde la consola de RStudio, una vez instaladas las librerías requeridas.
+
  
 # Fuente
 Los datos utilizados en esta visualización fueron obtenidos a través del portal Datos Abiertos de Colombia atos Abiertos, Ministerio de Agricultura y Desarrollo Rural. Cadena Productiva Cacao - Importaciones https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Cacao-Importaciones/ad53-mnet  . Esta información es recolectada por el Ministerio de Agricultura y Desarrollo Rural de Colombia.
